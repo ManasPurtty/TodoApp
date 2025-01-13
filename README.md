@@ -1,6 +1,6 @@
-Dodo App
+Todo App
 
-Dodo App is a full-stack task management application where users can add, edit, and delete tasks. This project showcases a simple and efficient way to manage tasks while demonstrating core full-stack development skills.
+Todo App is a full-stack task management application where users can add, edit, and delete tasks. This project showcases a simple and efficient way to manage tasks while demonstrating core full-stack development skills.
 
 Features
 
